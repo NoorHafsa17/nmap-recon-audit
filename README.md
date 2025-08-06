@@ -54,7 +54,7 @@ This repository captures the hands-on process of real-world network reconnaissan
 
 ---
 
-## What I Learned
+## Key Takeaways
 
 - Conducting stealthy and comprehensive scans across subnets.
 - Understanding what exposed ports can indicate.
