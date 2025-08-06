@@ -1,0 +1,1 @@
+# Nmap 7.95 scan initiated Wed Aug  6 17:57:44 2025 as: /usr/lib/nmap/nmap --privileged -sS -oN scan_results.txt 192.168.1.0/24

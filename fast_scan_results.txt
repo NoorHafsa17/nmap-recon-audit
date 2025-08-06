@@ -1,0 +1,20 @@
+# Nmap 7.95 scan initiated Wed Aug  6 18:02:31 2025 as: /usr/lib/nmap/nmap --privileged -sS -T4 --top-ports 100 -oN fast_scan_results.txt 10.189.176.0/24
+Nmap scan report for 10.189.176.4
+Host is up (0.0070s latency).
+Not shown: 99 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: [REDACTED]
+
+Nmap scan report for 10.189.176.74
+Host is up (0.055s latency).
+All 100 scanned ports on 10.189.176.74 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+MAC Address: [REDACTED]
+
+Nmap scan report for 10.189.176.183
+Host is up (0.0000050s latency).
+All 100 scanned ports on 10.189.176.183 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+
+# Nmap done at Wed Aug  6 18:02:37 2025 -- 256 IP addresses (3 hosts up) scanned in 5.89 seconds
